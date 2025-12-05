@@ -106,16 +106,12 @@
         "title": "Statistical Table Tennis",
         "subtitle": "Full-Stack SaaS Platform",
         "year": 2025,
-        "gifPath": "images/projects/table-tennis-stts.gif",
+        "gifPath": "images/projects/statistical-table-tennis-scores-over-under-total.gif",
         "techStack": ["Svelte 5", "SvelteKit", "Drizzle ORM", "SQLite", "Lucia Auth", "Node.js", "Ubuntu Server", "PM2", "Nginx", "Cloudflare", "Stripe API", "Figma"],
         "liveUrls": [
           {
             "label": "Live Platform",
             "url": "https://steven.tips"
-          },
-          {
-            "label": "OG Table Tennis",
-            "url": "https://ogtabletennis.com"
           }
         ],
         "overview": "Architected and built complete production SaaS application from concept to paying customers in 3 months while managing multiple concurrent client engagements.",
@@ -181,6 +177,8 @@
         "title": "Macro Exotics",
         "subtitle": "Exotic Vehicle Rental Platform",
         "year": 2025,
+        "gifPath": "images/projects/macro-exotics-car-rental-platform.gif",
+
         "techStack": ["Svelte 5", "SvelteKit", "Stripe API", "Firebase (Auth, Firestore, Storage)", "TypeScript", "REST APIs", "Vercel", "Git", "GitHub"],
         "liveUrls": [
           {
@@ -297,12 +295,23 @@
       }
     ],
     "technicalSkills": {
-      "languagesFrameworks": ["JavaScript", "TypeScript", "Python", "Svelte 5", "SvelteKit", "HTML5", "CSS", "Java", "C#", "SQL"],
+      "languagesFrameworks": ["JavaScript", "TypeScript", "Python", "Svelte 5", "SvelteKit", "HTML5", "CSS", "Java", "C", "C#", "SQL"],
       "infrastructureCloud": ["Firebase (Firestore, Functions, Auth, Hosting, Realtime Database)", "Vercel", "Google Cloud Platform", "Ubuntu Server", "Nginx", "PM2", "Cloudflare"],
       "apisIntegrations": ["REST API design", "Stripe API", "Google Apps Script", "Payment processing", "Third-party service integrations", "OpenStreetMap API"],
-      "developmentTools": ["Git", "GitHub", "CI/CD pipelines", "Performance monitoring", "Testing frameworks", "Figma", "Vite"],
+      "developmentTools": ["Git", "GitHub", "CI/CD pipelines", "Performance monitoring", "Testing frameworks", "Vite", "Claude Code", "Cursor", "WindSurf", "MCP Server", "AI Agents"],
+      "Design Tools": ["Figma", "Adobe Photoshop", "Adobe Illustrator", "Affinity Designer", "Affinity Photo"],
+      "3D Modeling/Game Engines": ["Unity", "Unreal Engine", "Blender", "Autodesk Maya", "OnShape", "Autodesk Fusion 360"],
       "databases": ["Firebase Firestore", "Firebase Realtime Database", "SQLite", "Drizzle ORM", "SQL"],
-      "methodologies": ["Scrum/Agile", "SDLC management", "System architecture", "Technical team leadership", "Remote team coordination"]
+      "methodologies": [
+        "AI Assisted Workflows",
+        "Context Engineering",
+        "Iterative Design",
+        "SDLC management",
+        "Scrum/Agile",
+        "System architecture",
+        "Technical team leadership",
+        "Remote team coordination"
+      ]
     },
     "education": {
       "degree": "Bachelor of Computer Science",
