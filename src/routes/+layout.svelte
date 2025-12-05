@@ -7,8 +7,6 @@
 
 <svelte:head>
 	<link rel="icon" href={favicon} />
-	<title>Steven Jenkins - Software Developer</title>
-	<meta name="description" content="Software developer portfolio showcasing web development projects and technical skills." />
 </svelte:head>
 
 {@render children()}
