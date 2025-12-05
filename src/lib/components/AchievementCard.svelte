@@ -10,6 +10,12 @@
 </script>
 
 <article class="achievement-card">
+	{#if achievement.gifPath}
+		<div class="achievement-gif">
+			<img src={achievement.gifPath} alt="{achievement.title} demo" />
+		</div>
+	{/if}
+
 	<div class="achievement-header">
 		<div class="title-section">
 			<h3 class="achievement-title">{achievement.title}</h3>
@@ -76,6 +82,19 @@
 		transition:
 			transform var(--transition-base),
 			box-shadow var(--transition-base);
+	}
+
+	.achievement-gif {
+		width: 100%;
+		border-radius: var(--radius-md);
+		overflow: hidden;
+		margin-bottom: var(--space-md);
+	}
+
+	.achievement-gif img {
+		width: 100%;
+		height: auto;
+		display: block;
 	}
 
 	.achievement-card:hover {

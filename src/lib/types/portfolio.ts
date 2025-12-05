@@ -39,6 +39,7 @@ export interface Achievement {
 		label: string;
 		value: string;
 	}[];
+	gifPath?: string;
 }
 
 export interface TechnicalSkills {
