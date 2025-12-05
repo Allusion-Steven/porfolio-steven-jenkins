@@ -1,0 +1,28 @@
+[debug] [2025-12-05T04:55:42.004Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-05T04:55:42.006Z] > authorizing via signed-in user (steven@allusionsoftware.com)
+[debug] [2025-12-05T04:55:42.006Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-05T04:55:42.007Z] > authorizing via signed-in user (steven@allusionsoftware.com)
+[debug] [2025-12-05T04:55:42.018Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-05T04:55:42.019Z] > authorizing via signed-in user (steven@allusionsoftware.com)
+[debug] [2025-12-05T04:55:42.030Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-05T04:55:42.031Z] > authorizing via signed-in user (steven@allusionsoftware.com)
+[debug] [2025-12-05T04:55:42.031Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-05T04:55:42.031Z] > authorizing via signed-in user (steven@allusionsoftware.com)
+[debug] [2025-12-05T04:55:42.032Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-05T04:55:42.032Z] > authorizing via signed-in user (steven@allusionsoftware.com)
+[debug] [2025-12-05T04:55:42.033Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-05T04:55:42.033Z] > authorizing via signed-in user (steven@allusionsoftware.com)
+[debug] [2025-12-05T04:56:53.051Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-05T04:56:53.053Z] > authorizing via signed-in user (steven@allusionsoftware.com)
+[debug] [2025-12-05T04:56:53.053Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-05T04:56:53.054Z] > authorizing via signed-in user (steven@allusionsoftware.com)
+[debug] [2025-12-05T04:56:53.065Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-05T04:56:53.065Z] > authorizing via signed-in user (steven@allusionsoftware.com)
+[debug] [2025-12-05T04:56:53.077Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-05T04:56:53.078Z] > authorizing via signed-in user (steven@allusionsoftware.com)
+[debug] [2025-12-05T04:56:53.078Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-05T04:56:53.078Z] > authorizing via signed-in user (steven@allusionsoftware.com)
+[debug] [2025-12-05T04:56:53.079Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-05T04:56:53.079Z] > authorizing via signed-in user (steven@allusionsoftware.com)
+[debug] [2025-12-05T04:56:53.080Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-12-05T04:56:53.080Z] > authorizing via signed-in user (steven@allusionsoftware.com)

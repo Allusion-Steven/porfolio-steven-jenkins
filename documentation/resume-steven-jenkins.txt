@@ -1,0 +1,156 @@
+STEVEN JENKINS
++1 (561) 603-8953 | steven@sgj.email | West Palm Beach, Florida
+Professional Summary
+Full-Stack Engineer specializing in revenue-critical systems and building performant, production-grade interfaces using Svelte 5 and SvelteKit. Architected and shipped complete web applications serving 800+ concurrent users with 99.9% uptime, optimizing front-ends to smoothly render 500+ real-time countdown timers with complex conditional queries against live data. Strong track record taking features from concept to production—designing in Figma, implementing responsive UIs with TypeScript, and deploying to production infrastructure. Technical expertise includes modern JavaScript/TypeScript development, performance optimization, component architecture, and building polished user experiences. Experience spans real-time data systems, financial applications with Stripe API integration, and scalable SaaS platforms generating revenue from day one.
+
+Technical expertise: Svelte 5, SvelteKit, TypeScript/JavaScript, TailwindCSS, responsive design, performance optimization, component libraries, RESTful APIs, payment processing, real-time systems, system architecture, database design
+
+Front-end capabilities: UI/UX implementation from Figma designs, real-time data rendering, performance engineering, modern build tooling (Vite, Vercel), production deployment pipelines
+
+Business capabilities: Stakeholder communication, requirements analysis, financial modeling, cross-functional collaboration, technical strategy
+
+Experience
+Founder & Technology Lead
+SGJX Holdings LLC | Wellington, Florida | 2021 – Present
+Lead technical architecture and engineering for client engagements across multiple industries
+Manage complete product lifecycle from requirements through production deployment
+Architect scalable web applications using modern JavaScript frameworks (Svelte 5, SvelteKit)
+Make strategic technology decisions balancing scalability, cost, and time-to-market
+Establish development processes and engineering best practices across client projects
+Coordinate with stakeholders to align technical roadmaps with business objectives
+
+Founder & Technology Lead
+JSX Software LLC | Wellington, Florida | 2017 – 2024
+Led technical infrastructure development enabling client revenue scaling. Position held concurrently with CaptiveOne role.
+Architected complete technology infrastructure supporting company scaling from founding to $6-9M annual revenue with 80+ employees
+Designed and implemented subscription platform with Stripe API integration generating $250,000 in revenue, including payment reconciliation system calculating per-customer transfers based on invoice line items
+Led enterprise migration of 80-100 user accounts across email platforms with zero data loss
+Replaced legacy systems after previous engineering teams failed, delivering production-grade solutions
+Managed complete technical operations including infrastructure planning, security, and stakeholder communication
+Made strategic build vs. buy decisions for CRM, payment processing, and business automation systems
+
+Head of Revenue Operations | Senior Solutions Engineer
+CaptiveOne Advisors™ | Wellington, Florida | 2020 – 2023
+Built and managed 3-person engineering team using Scrum methodology, delivering 35+ production systems
+Led cross-functional collaboration with sales and executive leadership on technical strategy and roadmap planning
+Architected custom CRM platform with integrated financial modeling, workflow automation, and API integrations
+Established technical standards for team deliverables, code quality, and system reliability
+Managed stakeholder communication, translating business requirements into technical specifications
+Developed pricing engines that became production billing infrastructure processing $500k+ invoices
+Performed full lifecycle team management including recruiting, mentoring, training, and performance evaluation
+Introduced agile software processes and best-in-class engineering practices to the team
+Managed technical debt to maintain development velocity while minimizing production incidents
+
+Solutions Engineer | Sales Operations Coordinator
+CaptiveOne Advisors™ | Wellington, Florida | Nov 2017 – Nov 2020
+
+Conducted technical discovery and requirements analysis with cross-functional stakeholders to architect solutions improving sales operations and pipeline efficiency
+Designed and implemented custom CRM platform supporting complete sales lifecycle, defining data architecture, API integrations, automation workflows, and reporting capabilities
+Defined data architecture, REST API integrations, and automation workflows for revenue operations
+Built comprehensive financial modeling tools and sales enablement systems integrated into CRM, standardizing pipeline forecasting, revenue projections, and client deliverables
+Partnered with CFO on technical solutions supporting financial analysis, mapping business processes with detailed cost breakdowns and identifying automation opportunities
+Delivered technical training to business teams on advanced capabilities (Google Apps Script, financial automation), enabling self-service for complex data operations
+Established development standards including pipeline management, testing procedures, deployment workflows, and cross-departmental handoff protocols
+
+Systems Administrator | Business Analyst
+CaptiveOne Advisors™ | Wellington, Florida | Aug 2015 – Nov 2017
+Mapped and documented key business processes with time estimates and cost breakdowns per step, coordinating with CFO to incorporate actual labor costs and identify efficiency opportunities
+Implemented company-wide file storage policies and standardized workflows, collaborating with each department to design systems tailored to individual team needs and driving adoption across the organization
+Bridged technical operations with business objectives through data-driven analysis
+Managed network security, infrastructure planning, and technology operations
+Coordinated system implementations based on cost-benefit analysis
+
+Education
+
+Bachelor of Computer Science
+Minors in Business Administration & Mathematics
+University of Miami, Miami, FL | Spring 2016
+
+Technical Skills
+
+Languages & Frameworks: JavaScript, TypeScript, Python, Svelte 5, SvelteKit, HTML5, CSS, Java, C#, SQL
+Infrastructure & Cloud: Firebase (Firestore, Functions, Auth, Hosting, Realtime Database), Vercel, Google Cloud Platform
+APIs & Integrations: REST API design, Stripe API, Google Apps Script, payment processing, third-party service integrations
+Development Tools: Git, GitHub, CI/CD pipelines, performance monitoring, testing frameworks
+Databases: Firebase Firestore, Firebase Realtime Database, SQL
+Methodologies: Scrum/Agile, SDLC management, system architecture, technical team leadership, remote team coordination
+
+
+
+
+Key Technical Achievements
+
+Statistical Table Tennis – Full-Stack SaaS Platform (2025)
+Tech Stack: Svelte 5, SvelteKit, Drizzle ORM, SQLite, Lucia Auth, Node.js, Ubuntu Server, PM2, Nginx, Cloudflare, Stripe API, Figma 
+Live: https://steven.tips | https://ogtabletennis.com
+Sole developer: Architected and built complete production SaaS application from concept to paying customers in 3 months while managing multiple concurrent client engagements
+Full-stack ownership: Designed and implemented every layer - custom authentication system (Lucia Auth), database architecture (Drizzle ORM + SQLite), RESTful API endpoints, front-end UI/UX, and payment processing (Stripe API)
+Production infrastructure with 99.9% uptime: Self-managed bare metal Ubuntu Server with redundant power supply (UPS battery backup on server and networking equipment), custom Nginx reverse proxy, PM2 process management, UFW firewall configuration, and zero-downtime deployment pipeline - maintained availability through multiple power outages
+Performance engineering: Optimized front-end to smoothly render 500+ concurrent real-time countdown timers and dynamic statistical cards with complex conditional queries against live data
+Enterprise security implementation: Built comprehensive anti-abuse system including device fingerprinting, multi-factor validation at signup, session revocation, IP blocking, and detailed audit logging
+Production-grade operations: Integrated Cloudflare CDN with SSL termination, DDoS protection, WAF rules, and edge caching for global performance
+Administrative tooling: Developed complete admin dashboard with user analytics, session management, device identification, account moderation controls, and real-time monitoring
+Revenue infrastructure: Implemented Stripe subscription billing with automated payment reconciliation and customer portal
+Product design: Created entire UX in Figma, translating designs directly to production-ready components with customizable user preferences and savable filter configurations
+
+Statistical Table Tennis - Helper Application (2025)
+Tech Stack: Node.js, Express, pm2, Ubuntu Server, Nginx 
+Cross functional application running in parallel to primary application
+API endpoint communicate locally to trigger server side functions via commands from primary application admin console. This serves to isolate functionality from the front-end and improve user experience for lengthy functions updating the database statistics on schedules.
+
+Wrench Totalcare Plus - Complete System Architecture & IOS Application (2024-2025)
+Tech Stack: Svelte 5, SvelteKit, Capacitor, Stripe API, Firebase (Auth, Firestore, Storage), TypeScript, REST APIs, Vercel, Git, Github
+
+Live Software:
+	Website: https://wrenchtc.com
+Customer Dashboard: totalcare.c2certification.com 
+API Documentation: https://documenter.getpostman.com/view/33065245/2sB2cSfNMQ
+Customer Facing iOS application: https://apps.apple.com/us/app/totalcare-plus/id6740841155
+
+Full-stack ownership: Designed and implemented every layer - Firebase Authentication, Firebase Firestore, and Firebase Storage database architecture, RESTful API endpoints, front-end UI/UX with Svelte 5 and Svelte kit, and payment processing (Stripe API)
+Revenue infrastructure: Implemented embedded Stripe checkout invoicing based on the parameters of a customers transaction. Price, duration, addons, etc. Vehicle owners are prompted to create a connect account which receives transfers for their funds after completion of rental and dispursment calcuations 
+Product design: Created entire UX in Figma, translating designs directly to production-ready components
+Project Manager: Responsible for assigning work, and reviewing pull requests for changes to the production codebase and live applications 
+Coordinated Requirement Gathering & Planning with third-party developers to implement referral API to onboard customers into the system and allow for full handoff into standard onboarding while customer billing remains on their end. 
+Exteral API endpoints with unique API keys and permissions per partner, utilizing SvelteKit 
+Isolated Quality Assurance environment implemented a completely isolated testing infrastructure that builds along side production to allow for easy testing for third party developers while implementing api
+JWT Based Token management for backward communication on the completion of various steps by customer
+
+Real-Time GPS Platform crossingforcysticfibrosis.com – Scalable Event Infrastructure (2022-Present)
+Tech Stack: Svelte 5, SvelteKit, Firebase (Firestore, Realtime DB), JavaScript/TypeScript, Vercel, OpenStreetMap API
+Live Software: https://crossing-for-cystic-svelte.vercel.app/tools | 
+Livestream Footage | 2025: youtube.com/live/CRI3FIs02Ho (timestamp 4:09:14)
+
+Architected real-time tracking platform utilizing gps location and meta data along with associating indiidual devices to information about the individual devices (i.e., team name, last update time, dynamically calculated race position, etc). scaling with event growth from $600k to $4.4M in fundraising
+Technical achievement: 800+ concurrent users, 2,500+ livestream viewers, 99.9% uptime, $0.13 total infrastructure cost
+System design: XML satellite feed processing, real-time database updates, dynamic ranking calculations, API endpoint design
+Rebuilt complete system one week before production event when GPS provider changed API requirements
+Maintained production system for 4 consecutive years with ongoing technical ownership
+
+Macro Exotics — Exotic Vehicle Rental Platform (2025) 
+Live: https://www.macroexotics.com/ | https://my.macroexotics.com
+Tech Stack: Svelte 5, SvelteKit, Stripe API, Firebase (Auth, Firestore, Storage), TypeScript, REST APIs, Vercel, Git, Github
+Full-stack ownership: Designed and implemented every layer - Firebase Authentication, Firebase Firestore, and Firebase Storage database architecture, RESTful API endpoints, front-end UI/UX with Svelte 5 and Svelte kit, and payment processing (Stripe API)
+Revenue infrastructure: Implemented embedded Stripe checkout invoicing based on the parameters of a customers transaction. Price, duration, addons, etc. Vehicle owners are prompted to create a connect account which receives transfers for their funds after completion of rental and dispursment calcuations 
+Product design: Created entire UX in Figma, translating designs directly to production-ready components
+Project Manager: Responsible for assigning work, and reviewing pull requests for changes to the production codebase and live applications 
+
+
+
+Payment Processing & Subscription Platform – Financial Technology Infrastructure (2021-2023)
+Tech Stack: Stripe API, Firebase (Auth, Firestore, Functions), JavaScript/TypeScript, REST APIs
+Architected subscription wellness platform generating $250,000 in revenue
+Payment integration: Stripe API for subscription management, automated billing, recurring payments
+Financial automation: Built payment reconciliation system calculating per-customer revenue transfers based on invoice line items
+System components: RESTful API layer, admin dashboard, customer portal, automated benefit tracking
+Third-party integration: HVMS practice management API for automated reimbursements
+Led complete technical implementation from requirements through production deployment
+
+Enterprise Technology Infrastructure – Complete System Architecture (2017-2024)
+Scope: Complete technical leadership for disaster consulting startup scaling to $6-9M revenue
+Led all technology decisions from founding through 80+ employee scale
+Architected web infrastructure, automated systems, and enterprise integrations (Google Sheets API)
+Executed enterprise migration of 80-100 accounts with zero downtime or data loss
+Served as dedicated engineering leadership handling infrastructure, security, and strategic planning
+Made build vs. buy decisions for employee management, job postings, and internal systems
+Coordinated implementation across remote teams and multiple departments
