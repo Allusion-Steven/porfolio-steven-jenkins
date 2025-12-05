@@ -106,7 +106,7 @@
         "title": "Statistical Table Tennis",
         "subtitle": "Full-Stack SaaS Platform",
         "year": 2025,
-        "gifPath": "/src/lib/assets/project-gifs/table-tennis-stts.gif",
+        "gifPath": "images/projects/table-tennis-stts.gif",
         "techStack": ["Svelte 5", "SvelteKit", "Drizzle ORM", "SQLite", "Lucia Auth", "Node.js", "Ubuntu Server", "PM2", "Nginx", "Cloudflare", "Stripe API", "Figma"],
         "liveUrls": [
           {
@@ -205,7 +205,7 @@
         "title": "Real-Time GPS Platform",
         "subtitle": "Scalable Event Infrastructure",
         "year": 2025,
-        "gifPath": "/src/lib/assets/project-gifs/crossing-for-cystic.gif",
+        "gifPath": "images/projects/crossing-for-cystic.gif",
         "techStack": ["Svelte 5", "SvelteKit", "Firebase (Firestore, Realtime DB)", "JavaScript/TypeScript", "Vercel", "OpenStreetMap API"],
         "liveUrls": [
           {
