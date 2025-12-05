@@ -41,6 +41,11 @@
         display: flex;
         flex-direction: column;
         gap: 1rem;
+        backdrop-filter: blur(5px);
+        /*background-color: #0c0c0c95;*/
+        padding: 1rem 0 0 0;
+        border-radius: 1rem;
+        max-width: 900px;
     }
     .profile-img {
         width: 100%;
@@ -49,27 +54,27 @@
         align-items: center;
         img {
             width: 275px;
-            box-shadow: 1px 1px 4px #0c0c0c;
-            box-shadow: #000;
+            box-shadow: 1px 1px 2px #0f0f0040;
+            box-shadow: #0c0c0c;
             border-radius: 100%;
         }
     }
     .hero {
         padding: var(--space-3xl) 0 var(--space-2xl);
         text-align: center;
-        background-image: url("/static/images/projects/macro-exotics-car-rental-platform.gif");
+        /*background-image: url("/images/background/hero-bg.jpg");*/
     }
 
     .hero-name {
         font-size: clamp(2.5rem, 5vw, 4rem);
         font-weight: 700;
-        color: var(--color-text-primary);
+
         margin-bottom: var(--space-sm);
     }
 
     .hero-title {
         font-size: var(--text-2xl);
-        color: var(--color-text-secondary);
+        color: #0c0c0c95;
         margin-bottom: var(--space-lg);
         font-weight: 500;
     }
@@ -87,6 +92,7 @@
         flex-wrap: wrap;
         justify-content: center;
         align-items: center;
+        padding: 1rem 0;
         gap: var(--space-sm);
         font-size: var(--text-base);
     }

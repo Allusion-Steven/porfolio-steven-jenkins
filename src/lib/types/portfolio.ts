@@ -54,6 +54,7 @@ export interface TechnicalSkills {
 
 export interface Education {
   degree: string;
+  diploma: string;
   field?: string;
   institution: string;
   location: string;

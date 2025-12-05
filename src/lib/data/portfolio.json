@@ -331,6 +331,7 @@
       ]
     },
     "education": {
+      "diploma": "/images/university-of-miami-diploma.jpg",
       "degree": "Bachelor of Computer Science",
       "institution": "University of Miami",
       "location": "Miami, FL",
