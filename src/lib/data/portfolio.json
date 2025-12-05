@@ -125,77 +125,21 @@
         ],
         "metrics": [
           {
-            "label": "Uptime",
-            "value": "99.9%"
-          },
-          {
-            "label": "Real-time Timers",
+            "label": "Real-time Statistical Displays",
             "value": "500+"
           },
           {
-            "label": "Development Time",
-            "value": "3 months"
+            "label": "Development Time To First Customer",
+            "value": "3.5 months"
+          },
+          {
+            "label": "Self-hosted Infrastructure Uptime",
+            "value": "99.9%"
+          },
+          {
+            "label": "Project Designer, Developer & IT Engineer",
+            "value": "Solo"
           }
-        ]
-      },
-      {
-        "id": "wrench-totalcare",
-        "title": "Wrench Totalcare Plus",
-        "subtitle": "Complete System Architecture & iOS Application",
-        "year": 2024,
-        "techStack": ["Svelte 5", "SvelteKit", "Capacitor", "Stripe API", "Firebase (Auth, Firestore, Storage)", "TypeScript", "REST APIs", "Vercel", "Git", "GitHub"],
-        "liveUrls": [
-          {
-            "label": "Website",
-            "url": "https://wrenchtc.com"
-          },
-          {
-            "label": "Customer Dashboard",
-            "url": "https://totalcare.c2certification.com"
-          },
-          {
-            "label": "iOS App",
-            "url": "https://apps.apple.com/us/app/totalcare-plus/id6740841155"
-          },
-          {
-            "label": "API Documentation",
-            "url": "https://documenter.getpostman.com/view/33065245/2sB2cSfNMQ"
-          }
-        ],
-        "overview": "Full-stack ownership: Designed and implemented every layer including Firebase Authentication, Firestore database architecture, RESTful API endpoints, front-end UI/UX, and Stripe payment processing.",
-        "highlights": [
-          "Revenue infrastructure: Embedded Stripe checkout invoicing with dynamic pricing based on transaction parameters, vehicle owners create connect accounts for automated fund transfers",
-          "Product design: Created entire UX in Figma, translating designs directly to production-ready components",
-          "Project Manager: Assigned work and reviewed pull requests for production codebase and live applications",
-          "External API endpoints with unique API keys and permissions per partner, utilizing SvelteKit",
-          "Isolated QA environment: Completely isolated testing infrastructure building alongside production for third-party developers",
-          "JWT-based token management for backward communication on completion of various customer steps"
-        ]
-      },
-      {
-        "id": "macro-exotics",
-        "title": "Macro Exotics",
-        "subtitle": "Exotic Vehicle Rental Platform",
-        "year": 2025,
-        "gifPath": "images/projects/macro-exotics-car-rental-platform.gif",
-
-        "techStack": ["Svelte 5", "SvelteKit", "Stripe API", "Firebase (Auth, Firestore, Storage)", "TypeScript", "REST APIs", "Vercel", "Git", "GitHub"],
-        "liveUrls": [
-          {
-            "label": "Website",
-            "url": "https://www.macroexotics.com"
-          },
-          {
-            "label": "Dashboard",
-            "url": "https://my.macroexotics.com"
-          }
-        ],
-        "overview": "Full-stack ownership: Designed and implemented every layer including Firebase Authentication, Firestore database, RESTful API endpoints, front-end UI/UX with Svelte 5, and Stripe payment processing.",
-        "highlights": [
-          "Revenue infrastructure: Implemented embedded Stripe checkout invoicing based on transaction parameters (price, duration, addons)",
-          "Vehicle owners prompted to create Stripe connect accounts which receive transfers after rental completion and disbursement calculations",
-          "Product design: Created entire UX in Figma, translating designs directly to production-ready components",
-          "Project Manager: Responsible for assigning work and reviewing pull requests for production codebase changes"
         ]
       },
       {
@@ -225,12 +169,16 @@
         ],
         "metrics": [
           {
-            "label": "Concurrent Users",
+            "label": "GPS Devices Synced Real-time",
+            "value": "150+"
+          },
+          {
+            "label": "Concurrent Users on Raceday",
             "value": "800+"
           },
           {
-            "label": "Uptime",
-            "value": "99.9%"
+            "label": "Ground Up Redevelopment in 2025",
+            "value": "1-week"
           },
           {
             "label": "Infrastructure Cost",
@@ -239,7 +187,75 @@
           {
             "label": "Livestream Viewers",
             "value": "2,500+"
+          },
+
+          {
+            "label": "Continued Client Engagement and Counting",
+            "value": "4 Years"
           }
+        ]
+      },
+      {
+        "id": "macro-exotics",
+        "title": "Macro Exotics",
+        "subtitle": "Exotic Vehicle Rental Platform",
+        "year": 2025,
+        "gifPath": "images/projects/macro-exotics-car-rental-platform.gif",
+
+        "techStack": ["Svelte 5", "SvelteKit", "Stripe API", "Firebase (Auth, Firestore, Storage)", "TypeScript", "REST APIs", "Vercel", "Git", "GitHub"],
+        "liveUrls": [
+          {
+            "label": "Website",
+            "url": "https://www.macroexotics.com"
+          },
+          {
+            "label": "Dashboard",
+            "url": "https://my.macroexotics.com"
+          }
+        ],
+        "overview": "Full-stack ownership: Designed and implemented every layer including Firebase Authentication, Firestore database, RESTful API endpoints, front-end UI/UX with Svelte 5, and Stripe payment processing.",
+        "highlights": [
+          "Revenue infrastructure: Implemented embedded Stripe checkout invoicing based on transaction parameters (price, duration, addons)",
+          "Vehicle owners prompted to create Stripe connect accounts which receive transfers after rental completion and disbursement calculations",
+          "Product design: Created entire UX in Figma, translating designs directly to production-ready components",
+          "Project Manager: Responsible for assigning work and reviewing pull requests for production codebase changes"
+        ]
+      },
+
+      {
+        "id": "wrench-totalcare",
+        "title": "Wrench Totalcare Plus",
+        "subtitle": "Complete System Architecture & iOS Application",
+        "year": 2024,
+        "gifPath": "images/projects/wrench-totalcare-platform.gif",
+
+        "techStack": ["Svelte 5", "SvelteKit", "Capacitor", "Stripe API", "Firebase (Auth, Firestore, Storage)", "TypeScript", "REST APIs", "Vercel", "Git", "GitHub"],
+        "liveUrls": [
+          {
+            "label": "Website",
+            "url": "https://wrenchtc.com"
+          },
+          {
+            "label": "Customer Dashboard",
+            "url": "https://totalcare.c2certification.com"
+          },
+          {
+            "label": "iOS App",
+            "url": "https://apps.apple.com/us/app/totalcare-plus/id6740841155"
+          },
+          {
+            "label": "API Documentation",
+            "url": "https://documenter.getpostman.com/view/33065245/2sB2cSfNMQ"
+          }
+        ],
+        "overview": "Full-stack ownership: Designed and implemented every layer including Firebase Authentication, Firestore database architecture, RESTful API endpoints, front-end UI/UX, and Stripe payment processing.",
+        "highlights": [
+          "Revenue infrastructure: Embedded Stripe checkout invoicing with dynamic pricing based on transaction parameters, vehicle owners create connect accounts for automated fund transfers",
+          "Product design: Created entire UX in Figma, translating designs directly to production-ready components",
+          "Project Manager: Assigned work and reviewed pull requests for production codebase and live applications",
+          "External API endpoints with unique API keys and permissions per partner, utilizing SvelteKit",
+          "Isolated QA environment: Completely isolated testing infrastructure building alongside production for third-party developers",
+          "JWT-based token management for backward communication on completion of various customer steps"
         ]
       },
       {
