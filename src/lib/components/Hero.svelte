@@ -54,9 +54,7 @@
         align-items: center;
         img {
             width: 275px;
-            box-shadow: 1px 1px 2px #0f0f0040;
-            box-shadow: #0c0c0c;
-            border-radius: 100%;
+            border-radius: 3rem;
         }
     }
     .hero {

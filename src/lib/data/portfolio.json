@@ -1,7 +1,7 @@
 {
   "personal": {
     "name": "Steven Jenkins",
-    "headshot": "/images/steven-jenkins-headshot.jpeg",
+    "headshot": "/images/steven-jenkins-headshot.png",
     "title": "Full-Stack Engineer",
     "summary": "",
     "professionalSummary": "Full-Stack Engineer specializing in revenue-critical systems and building performant, production-grade interfaces using Svelte 5 and SvelteKit. Architected and shipped complete web applications serving 800+ concurrent users with 99.9% uptime, optimizing front-ends to smoothly render 500+ real-time countdown timers with complex conditional queries against live data. Strong track record taking features from concept to production—designing in Figma, implementing responsive UIs with TypeScript, and deploying to production infrastructure. Technical expertise includes modern JavaScript/TypeScript development, performance optimization, component architecture, and building polished user experiences. Experience spans real-time data systems, financial applications with Stripe API integration, and scalable SaaS platforms generating revenue from day one.",

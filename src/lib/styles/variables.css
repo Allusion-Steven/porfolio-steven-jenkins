@@ -4,6 +4,11 @@
     font-weight: normal;
     font-style: normal;
 }
+/*--text: #050315;
+--background: #fbfbfe;
+--primary: #000000;
+--secondary: #dadadd;
+--accent: #baec4e;*/
 :root {
     /* Colors - Light Mode */
     --color-bg: #ffffff;

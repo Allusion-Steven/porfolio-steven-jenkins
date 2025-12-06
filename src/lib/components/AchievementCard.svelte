@@ -71,6 +71,9 @@
 </article>
 
 <style>
+    a {
+        cursor: pointer;
+    }
     .achievement-card {
         background-color: var(--color-bg);
         border: 1px solid var(--color-border);
@@ -192,9 +195,12 @@
         display: flex;
         flex-wrap: wrap;
         gap: var(--space-sm);
+        cursor: pointer;
     }
 
     .live-link {
+        cursor: pointer !important;
+
         display: inline-block;
         font-size: var(--text-sm);
         padding: var(--space-sm) var(--space-md);
