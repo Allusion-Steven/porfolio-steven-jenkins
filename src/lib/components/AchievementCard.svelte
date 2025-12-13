@@ -30,7 +30,7 @@
 
     {#if achievement.metrics && achievement.metrics.length > 0}
         <div class="achievement-metrics">
-            {#each achievement.metrics as metric}
+            {#each achievement.metrics as metric, i (i)}
                 <div class="metric-item">
                     <div class="metric-value">{metric.value}</div>
                     <div class="metric-label">{metric.label}</div>
@@ -40,14 +40,14 @@
     {/if}
 
     <div class="tech-stack">
-        {#each achievement.techStack as tech}
+        {#each achievement.techStack as tech, i (i)}
             <span class="tech-tag">{tech}</span>
         {/each}
     </div>
 
     {#if achievement.liveUrls.length > 0}
         <div class="live-urls">
-            {#each achievement.liveUrls as link}
+            {#each achievement.liveUrls as link, i (i)}
                 <a href={link.url} target="_blank" rel="noopener noreferrer" class="live-link">
                     {link.label}
                 </a>
@@ -62,7 +62,7 @@
 
         {#if showHighlights}
             <ul class="highlights-list">
-                {#each achievement.highlights as highlight}
+                {#each achievement.highlights as highlight, i (i)}
                     <li class="highlight-item">{highlight}</li>
                 {/each}
             </ul>
@@ -71,9 +71,6 @@
 </article>
 
 <style>
-    a {
-        cursor: pointer;
-    }
     .achievement-card {
         background-color: var(--color-bg);
         border: 1px solid var(--color-border);
@@ -195,12 +192,9 @@
         display: flex;
         flex-wrap: wrap;
         gap: var(--space-sm);
-        cursor: pointer;
     }
 
     .live-link {
-        cursor: pointer !important;
-
         display: inline-block;
         font-size: var(--text-sm);
         padding: var(--space-sm) var(--space-md);

@@ -4,7 +4,7 @@
     "headshot": "/images/steven-jenkins-headshot.png",
     "title": "Full-Stack Engineer",
     "summary": "",
-    "professionalSummary": "Full-Stack Engineer specializing in revenue-critical systems and building performant, production-grade interfaces using Svelte 5 and SvelteKit. Architected and shipped complete web applications serving 800+ concurrent users with 99.9% uptime, optimizing front-ends to smoothly render 500+ real-time countdown timers with complex conditional queries against live data. Strong track record taking features from concept to production—designing in Figma, implementing responsive UIs with TypeScript, and deploying to production infrastructure. Technical expertise includes modern JavaScript/TypeScript development, performance optimization, component architecture, and building polished user experiences. Experience spans real-time data systems, financial applications with Stripe API integration, and scalable SaaS platforms generating revenue from day one.",
+    "professionalSummary": "Senior Software Engineer with 9+ years of experience designing and building production-grade web applications and revenue infrastructure. Expertise in modern front-end architectures (React, Svelte/SvelteKit) and TypeScript, spanning full-stack development, payment systems integration, and AI-assisted workflows. Proven record of architecting scalable systems supporting 800+ concurrent users while achieving 99.9% uptime and reducing infrastructure costs by up to 87%, with a Bachelor's degree in Computer Science and minors in Mathematics and Business Administration.",
     "location": "West Palm Beach, Florida",
     "phone": "+1 (561) 603-8953",
     "email": "steven@sgj.email",
@@ -14,90 +14,52 @@
   "resume": {
     "experience": [
       {
-        "id": "sgjx-holdings",
-        "company": "SGJX Holdings LLC",
-        "title": "Founder & Technology Lead",
-        "location": "Wellington, Florida",
-        "startDate": "2021",
-        "endDate": null,
-        "description": "Lead technical architecture and engineering for client engagements across multiple industries",
-        "highlights": [
-          "Manage complete product lifecycle from requirements through production deployment",
-          "Architect scalable web applications using modern JavaScript frameworks (Svelte 5, SvelteKit)",
-          "Make strategic technology decisions balancing scalability, cost, and time-to-market",
-          "Establish development processes and engineering best practices across client projects",
-          "Coordinate with stakeholders to align technical roadmaps with business objectives"
-        ]
-      },
-      {
-        "id": "jsx-software",
-        "company": "JSX Software LLC",
-        "title": "Founder & Technology Lead",
+        "id": "jx-logic-jsx-software",
+        "company": "JX Logic / JSX Software LLC",
+        "title": "Technical Lead & Software Engineer",
         "location": "Wellington, Florida",
         "startDate": "2017",
-        "endDate": "2024",
-        "description": "Led technical infrastructure development enabling client revenue scaling",
+        "endDate": null,
+        "description": "Architected and deployed 7 production applications with Stripe payment integration generating monthly recurring revenue (MRR), building complete technical infrastructure from authentication through payment processing and automated billing reconciliation",
         "highlights": [
-          "Architected complete technology infrastructure supporting company scaling from founding to $6-9M annual revenue with 80+ employees",
-          "Designed and implemented subscription platform with Stripe API integration generating $250,000 in revenue, including payment reconciliation system calculating per-customer transfers based on invoice line items",
-          "Led enterprise migration of 80-100 user accounts across email platforms with zero data loss",
-          "Replaced legacy systems after previous engineering teams failed, delivering production-grade solutions",
-          "Managed complete technical operations including infrastructure planning, security, and stakeholder communication",
-          "Made strategic build vs. buy decisions for CRM, payment processing, and business automation systems"
-        ],
-        "concurrent": "Position held concurrently with CaptiveOne role"
+          "Architected and deployed 7 production applications with Stripe payment integration generating monthly recurring revenue (MRR), building complete technical infrastructure from authentication through payment processing and automated billing reconciliation",
+          "Reduced infrastructure costs by 87% while scaling to 800+ concurrent users and 2,500 live stream viewers—migrated Real-Time GPS Platform from expensive provider to self-built solution using Firebase and OpenStreetMap API, maintaining 99.9% uptime across 4 consecutive production events",
+          "Built Statistical Table Tennis SaaS platform from concept to paying customers in 3 months—architected custom authentication (Lucia Auth), database layer (Drizzle ORM + SQLite), Stripe subscription billing, and front-end UI handling 500+ concurrent real-time countdown timers, customizable interface elements, oAuth integration with discord to allow scheduled reminders",
+          "Delivered zero-downtime production deployment for client CRM application after previous engineering team failed—rebuilt complete flight management system on self-managed Ubuntu server with Nginx reverse proxy, PM2 process management, UPS battery backup, and automated deployment pipeline",
+          "Designed and implemented partner API integration for equine health platform connecting Firebase backend to third-party HVMS veterinary software—automated benefit reconciliation by parsing invoice line items, updating Firestore records, and synchronizing adjustments across both systems",
+          "Led 3-person development team on Macro Exotics marketplace platform—coordinated pull request reviews, assigned features, implemented Stripe Connect for automated fund distribution to vehicle hosts, and built embedded checkout calculating dynamic pricing based on rental duration and add-ons",
+          "Rebuilt production GPS tracking system in one week when vendor changed API requirements—re-architected XML satellite feed processing, real-time database updates, and dynamic ranking calculations to support event scaling from $600K to $4.4M in fundraising"
+        ]
       },
       {
-        "id": "captiveone-head",
+        "id": "captiveone-lead-revenue",
         "company": "CaptiveOne Advisors™",
-        "title": "Head of Revenue Operations | Senior Solutions Engineer",
+        "title": "Lead Revenue Operations Engineer",
         "location": "Wellington, Florida",
-        "startDate": "Nov 2020",
+        "startDate": "2020",
         "endDate": "2023",
-        "description": "Built and managed 3-person engineering team using Scrum methodology, delivering 35+ production systems",
+        "description": "Accelerated sales velocity by 3x while increasing annual revenue 1.8x—reduced proposal turnaround from 1-2 weeks to under 4 hours by building automated financial modeling system and leading 3-person engineering team to deliver 35+ industry-specific captive insurance calculation models",
         "highlights": [
-          "Led cross-functional collaboration with sales and executive leadership on technical strategy and roadmap planning",
-          "Architected custom CRM platform with integrated financial modeling, workflow automation, and API integrations",
-          "Established technical standards for team deliverables, code quality, and system reliability",
-          "Managed stakeholder communication, translating business requirements into technical specifications",
-          "Developed pricing engines that became production billing infrastructure processing $500k+ invoices",
-          "Performed full lifecycle team management including recruiting, mentoring, training, and performance evaluation",
-          "Introduced agile software processes and best-in-class engineering practices to the team",
-          "Managed technical debt to maintain development velocity while minimizing production incidents"
+          "Accelerated sales velocity by 3x while increasing annual revenue 1.8x—reduced proposal turnaround from 1-2 weeks to under 4 hours by building automated financial modeling system and leading 3-person engineering team to deliver 35+ industry-specific captive insurance calculation models",
+          "Architected new business vertical generating $7M+ in annual revenue—identified market opportunity, built complete technical infrastructure including Stripe subscription platform, automated benefit management system, and venue partnership integrations that became one of company's primary revenue drivers",
+          "Designed and implemented end-to-end revenue operations infrastructure supporting individual deals exceeding $500K—built financial modeling engines, pricing calculators, automated billing systems, and contract management tools enabling company scale from $3.5M to $10M+ annually",
+          "Reduced engineering bottlenecks across organization by translating complex insurance financial requirements into automated tools—enabled non-technical sales and executive teams to independently deploy sophisticated financial models"
         ]
       },
       {
-        "id": "captiveone-solutions",
+        "id": "captiveone-solutions-systems",
         "company": "CaptiveOne Advisors™",
-        "title": "Solutions Engineer | Sales Operations Coordinator",
+        "title": "Solutions Engineer | Systems Administrator",
         "location": "Wellington, Florida",
-        "startDate": "Nov 2017",
-        "endDate": "Nov 2020",
-        "description": "Conducted technical discovery and requirements analysis with cross-functional stakeholders to architect solutions improving sales operations and pipeline efficiency",
+        "startDate": "2015",
+        "endDate": "2019",
+        "description": "Designed and implemented custom CRM platform supporting complete sales lifecycle—defined data architecture, built REST API integrations, configured automation workflows, and created reporting dashboards used across all revenue operations",
         "highlights": [
-          "Designed and implemented custom CRM platform supporting complete sales lifecycle, defining data architecture, API integrations, automation workflows, and reporting capabilities",
-          "Defined data architecture, REST API integrations, and automation workflows for revenue operations",
-          "Built comprehensive financial modeling tools and sales enablement systems integrated into CRM, standardizing pipeline forecasting, revenue projections, and client deliverables",
-          "Partnered with CFO on technical solutions supporting financial analysis, mapping business processes with detailed cost breakdowns and identifying automation opportunities",
-          "Delivered technical training to business teams on advanced capabilities (Google Apps Script, financial automation), enabling self-service for complex data operations",
-          "Established development standards including pipeline management, testing procedures, deployment workflows, and cross-departmental handoff protocols"
-        ]
-      },
-      {
-        "id": "captiveone-systems",
-        "company": "CaptiveOne Advisors™",
-        "title": "Systems Administrator | Business Analyst",
-        "location": "Wellington, Florida",
-        "startDate": "Aug 2015",
-        "endDate": "Nov 2017",
-        "description": "Mapped and documented key business processes with time estimates and cost breakdowns per step",
-        "highlights": [
-          "Coordinated with CFO to incorporate actual labor costs and identify efficiency opportunities",
-          "Implemented company-wide file storage policies and standardized workflows, collaborating with each department to design systems tailored to individual team needs",
-          "Drove adoption across the organization through training and change management",
-          "Bridged technical operations with business objectives through data-driven analysis",
-          "Managed network security, infrastructure planning, and technology operations",
-          "Coordinated system implementations based on cost-benefit analysis"
+          "Designed and implemented custom CRM platform supporting complete sales lifecycle—defined data architecture, built REST API integrations, configured automation workflows, and created reporting dashboards used across all revenue operations",
+          "Drove organization-wide technology adoption by implementing file storage infrastructure and standardized workflows—collaborated with each department to design systems tailored to team needs while maintaining security and compliance requirements",
+          "Delivered technical training to business teams on advanced automation capabilities—taught Google Apps Script and financial automation enabling self-service for complex data operations",
+          "Established development standards including CI/CD pipeline management, testing procedures, deployment workflows, and cross-departmental handoff protocols",
+          "Managed network security, infrastructure planning, and system implementations based on cost-benefit analysis"
         ]
       }
     ],
@@ -112,7 +74,7 @@
         "liveUrls": [
           {
             "label": "Live Platform",
-            "url": "https://steven.tips"
+            "url": "https://ogtabletennis.com"
           }
         ],
         "overview": "Architected and built complete production SaaS application from concept to paying customers in 3 months while managing multiple concurrent client engagements.",
@@ -156,8 +118,8 @@
             "url": "https://crossing-for-cystic-svelte.vercel.app/tools"
           },
           {
-            "label": "2025 Livestream (timestamp 4:09:14)",
-            "url": "https://youtube.com/live/CRI3FIs02Ho"
+            "label": "2025 Livestream (4:09:14)",
+            "url": "https://www.youtube.com/live/CRI3FIs02Ho?si=sf-iPnRWO6Zgf446"
           }
         ],
         "overview": "Architected real-time tracking platform utilizing GPS location and metadata, associating individual devices to information including team name, last update time, and dynamically calculated race position.",
@@ -312,13 +274,13 @@
       }
     ],
     "technicalSkills": {
-      "languagesFrameworks": ["JavaScript", "TypeScript", "Python", "Svelte 5", "SvelteKit", "HTML5", "CSS", "Java", "C", "C#", "SQL"],
-      "infrastructureCloud": ["Firebase (Firestore, Functions, Auth, Hosting, Realtime Database)", "Vercel", "Google Cloud Platform", "Ubuntu Server", "Nginx", "PM2", "Cloudflare"],
-      "apisIntegrations": ["REST API design", "Stripe API", "Google Apps Script", "Payment processing", "Third-party service integrations", "OpenStreetMap API"],
-      "developmentTools": ["Git", "GitHub", "CI/CD pipelines", "Performance monitoring", "Testing frameworks", "Vite", "Claude Code", "Cursor", "WindSurf", "MCP Server", "AI Agents"],
-      "Design Tools": ["Figma", "Adobe Photoshop", "Adobe Illustrator", "Affinity Designer", "Affinity Photo"],
-      "3D Modeling/Game Engines": ["Unity", "Unreal Engine", "Blender", "Autodesk Maya", "OnShape", "Autodesk Fusion 360"],
-      "databases": ["Firebase Firestore", "Firebase Realtime Database", "SQLite", "Drizzle ORM", "SQL"],
+      "languagesCore": ["JavaScript", "TypeScript", "Python", "HTML5", "CSS", "Node.js", "Java", "C"],
+      "frameworks": ["Svelte 5", "SvelteKit", "Svelte 4", "React.js", "Capacitor.js", "TailwindCSS", "Three.js", "D3.js"],
+      "infrastructure": ["Google Cloud Platform & Firebase", "Vercel", "AWS", "Nginx", "PM2", "Docker"],
+      "developmentTools": ["Git", "GitHub", "CI/CD", "Vite", "Claude Code", "Cursor", "MCP Servers", "Agents"],
+      "backendApis": ["Express.js", "REST API", "GraphQL", "Firebase", "Stripe API", "OAuth", "JWT"],
+      "databases": ["SQL", "NoSQL", "SQLite", "Drizzle ORM", "Firebase Realtime Database", "MSSQL", "SMSS"],
+      "creativeTools": ["Figma", "Adobe Photoshop", "Adobe Illustrator", "Affinity Designer", "Affinity Photo", "Unity", "Unreal Engine", "Blender", "Autodesk Maya", "OnShape", "Autodesk Fusion 360"],
       "methodologies": [
         "AI Assisted Workflows",
         "Context Engineering",

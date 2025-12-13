@@ -44,11 +44,13 @@ export interface Achievement {
 }
 
 export interface TechnicalSkills {
-  languagesFrameworks: string[];
-  infrastructureCloud: string[];
-  apisIntegrations: string[];
+  languagesCore: string[];
+  frameworks: string[];
+  infrastructure: string[];
   developmentTools: string[];
+  backendApis: string[];
   databases: string[];
+  creativeTools: string[];
   methodologies: string[];
 }
 

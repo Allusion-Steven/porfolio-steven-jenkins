@@ -17,9 +17,10 @@ export function truncateDescription(text: string, maxLength: number = 155): stri
 
 export function buildKeywords(skills: TechnicalSkills): string[] {
 	const allSkills: string[] = [
-		...skills.languagesFrameworks,
-		...skills.infrastructureCloud,
-		...skills.apisIntegrations,
+		...skills.languagesCore,
+		...skills.frameworks,
+		...skills.infrastructure,
+		...skills.backendApis,
 		...skills.developmentTools,
 		...skills.databases
 	];

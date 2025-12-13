@@ -13,25 +13,25 @@
 		<h2 class="section-title">Technical Skills</h2>
 		<div class="skills-grid">
 			<div class="skill-category">
-				<h3 class="category-title">Languages & Frameworks</h3>
+				<h3 class="category-title">Languages & Core</h3>
 				<ul class="skill-list">
-					{#each skills.languagesFrameworks as skill}
+					{#each skills.languagesCore as skill}
 						<li class="skill-tag">{skill}</li>
 					{/each}
 				</ul>
 			</div>
 			<div class="skill-category">
-				<h3 class="category-title">Infrastructure & Cloud</h3>
+				<h3 class="category-title">Frameworks</h3>
 				<ul class="skill-list">
-					{#each skills.infrastructureCloud as skill}
+					{#each skills.frameworks as skill}
 						<li class="skill-tag">{skill}</li>
 					{/each}
 				</ul>
 			</div>
 			<div class="skill-category">
-				<h3 class="category-title">APIs & Integrations</h3>
+				<h3 class="category-title">Infrastructure</h3>
 				<ul class="skill-list">
-					{#each skills.apisIntegrations as skill}
+					{#each skills.infrastructure as skill}
 						<li class="skill-tag">{skill}</li>
 					{/each}
 				</ul>
@@ -45,9 +45,25 @@
 				</ul>
 			</div>
 			<div class="skill-category">
+				<h3 class="category-title">Backend & APIs</h3>
+				<ul class="skill-list">
+					{#each skills.backendApis as skill}
+						<li class="skill-tag">{skill}</li>
+					{/each}
+				</ul>
+			</div>
+			<div class="skill-category">
 				<h3 class="category-title">Databases</h3>
 				<ul class="skill-list">
 					{#each skills.databases as skill}
+						<li class="skill-tag">{skill}</li>
+					{/each}
+				</ul>
+			</div>
+			<div class="skill-category">
+				<h3 class="category-title">Creative Tools</h3>
+				<ul class="skill-list">
+					{#each skills.creativeTools as skill}
 						<li class="skill-tag">{skill}</li>
 					{/each}
 				</ul>
