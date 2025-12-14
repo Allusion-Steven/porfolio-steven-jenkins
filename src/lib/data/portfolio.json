@@ -70,7 +70,7 @@
         "subtitle": "Full-Stack SaaS Platform",
         "year": 2025,
         "gifPath": "images/projects/statistical-table-tennis-scores-over-under-total.gif",
-        "techStack": ["Svelte 5", "SvelteKit", "Drizzle ORM", "SQLite", "Lucia Auth", "Node.js", "Ubuntu Server", "PM2", "Nginx", "Cloudflare", "Stripe API", "Figma"],
+        "techStack": ["Svelte 5", "SvelteKit", "Drizzle ORM", "SQLite", "Lucia Auth", "Node.js", "Ubuntu Server", "PM2", "Nginx", "Cloudflare", "Stripe API", "oAuth", "Figma"],
         "liveUrls": [
           {
             "label": "Live Platform",
@@ -100,8 +100,16 @@
             "value": "99.9%"
           },
           {
-            "label": "Project Designer, Developer & IT Engineer",
-            "value": "Solo"
+            "label": "daily time savings for users",
+            "value": "2 hours +"
+          },
+          {
+            "label": "PERCENTILE MMR GROWTH (stripe)",
+            "value": "139%"
+          },
+          {
+            "label": "Startup infrastructure costs",
+            "value": "$0"
           }
         ]
       },
@@ -111,7 +119,7 @@
         "subtitle": "Scalable Event Infrastructure",
         "year": 2025,
         "gifPath": "images/projects/crossing-for-cystic.gif",
-        "techStack": ["Svelte 5", "SvelteKit", "Firebase (Firestore, Realtime DB)", "JavaScript/TypeScript", "Vercel", "OpenStreetMap API"],
+        "techStack": ["Svelte 5", "SvelteKit", "Firebase (Firestore, Realtime DB)", "JavaScript/TypeScript", "REST APIs", "XML", "JSON", "Vercel", "OpenStreetMap API"],
         "liveUrls": [
           {
             "label": "Live Platform",
@@ -192,7 +200,7 @@
         "year": 2024,
         "gifPath": "images/projects/wrench-totalcare-platform.gif",
 
-        "techStack": ["Svelte 5", "SvelteKit", "Capacitor", "Stripe API", "Firebase (Auth, Firestore, Storage)", "TypeScript", "REST APIs", "Vercel", "Git", "GitHub"],
+        "techStack": ["Svelte 5", "SvelteKit", "Capacitor", "Stripe API", "Firebase (Auth, Firestore, Storage)", "TypeScript", "REST APIs", "Vercel", "Git", "GitHub", "Google Cloud Platform (GCP)"],
         "liveUrls": [
           {
             "label": "Website",
@@ -226,7 +234,7 @@
         "title": "Payment Processing & Subscription Platform",
         "subtitle": "Financial Technology Infrastructure",
         "year": 2021,
-        "techStack": ["Stripe API", "Firebase (Auth, Firestore, Functions)", "JavaScript/TypeScript", "REST APIs"],
+        "techStack": ["JavaScript/TypeScript", "HTML", "CSS", "Stripe API", "Firebase (Auth, Firestore, Functions)", "REST APIs", "Google Cloud Platform (GCP)"],
         "liveUrls": [],
         "overview": "Architected subscription wellness platform generating $250,000 in revenue with Stripe API integration for subscription management, automated billing, and recurring payments.",
         "highlights": [
@@ -237,7 +245,7 @@
         ],
         "metrics": [
           {
-            "label": "Revenue Generated",
+            "label": "Year One Revenue Generated",
             "value": "$250,000"
           }
         ]
@@ -247,7 +255,7 @@
         "title": "Enterprise Technology Infrastructure",
         "subtitle": "Complete System Architecture",
         "year": 2017,
-        "techStack": ["Google Sheets API", "Google Apps Script", "Enterprise Email Migration", "Web Infrastructure", "Automated Systems"],
+        "techStack": ["HTML", "CSS", "Bootstrap", "Google Sheets API", "Google Apps Script", "Enterprise Email Migration", "Web Infrastructure", "Automated Systems"],
         "liveUrls": [],
         "overview": "Complete technical leadership for disaster consulting startup scaling to $6-9M revenue. Led all technology decisions from founding through 80+ employee scale.",
         "highlights": [
@@ -276,9 +284,9 @@
     "technicalSkills": {
       "languagesCore": ["JavaScript", "TypeScript", "Python", "HTML5", "CSS", "Node.js", "Java", "C"],
       "frameworks": ["Svelte 5", "SvelteKit", "Svelte 4", "React.js", "Capacitor.js", "TailwindCSS", "Three.js", "D3.js"],
-      "infrastructure": ["Google Cloud Platform & Firebase", "Vercel", "AWS", "Nginx", "PM2", "Docker"],
+      "infrastructure": ["Google Cloud Platform (GCP)", "Firebase", "Vercel", "AWS", "Nginx", "PM2", "Docker"],
       "developmentTools": ["Git", "GitHub", "CI/CD", "Vite", "Claude Code", "Cursor", "MCP Servers", "Agents"],
-      "backendApis": ["Express.js", "REST API", "GraphQL", "Firebase", "Stripe API", "OAuth", "JWT"],
+      "backendApis": ["Express.js", "SvelteKit", "REST API", "Firebase", "Stripe API", "OAuth", "JWT"],
       "databases": ["SQL", "NoSQL", "SQLite", "Drizzle ORM", "Firebase Realtime Database", "MSSQL", "SMSS"],
       "creativeTools": ["Figma", "Adobe Photoshop", "Adobe Illustrator", "Affinity Designer", "Affinity Photo", "Unity", "Unreal Engine", "Blender", "Autodesk Maya", "OnShape", "Autodesk Fusion 360"],
       "methodologies": [
