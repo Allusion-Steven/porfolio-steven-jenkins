@@ -81,9 +81,9 @@ Methodologies: Scrum/Agile, SDLC management, system architecture, technical team
 Key Technical Achievements
 
 Statistical Table Tennis – Full-Stack SaaS Platform (2025)
-Tech Stack: Svelte 5, SvelteKit, Drizzle ORM, SQLite, Lucia Auth, Node.js, Ubuntu Server, PM2, Nginx, Cloudflare, Stripe API, Figma 
+Tech Stack: Svelte 5, SvelteKit, Drizzle ORM, SQLite, Lucia Auth, Node.js, Ubuntu Server, PM2, Nginx, Cloudflare, Stripe API, Figma
 Live: https://steven.tips | https://ogtabletennis.com
-Sole developer: Architected and built complete production SaaS application from concept to paying customers in 3 months while managing multiple concurrent client engagements
+Lead developer: Architected and built complete production SaaS application from concept to paying customers in 3 months while managing multiple concurrent client engagements
 Full-stack ownership: Designed and implemented every layer - custom authentication system (Lucia Auth), database architecture (Drizzle ORM + SQLite), RESTful API endpoints, front-end UI/UX, and payment processing (Stripe API)
 Production infrastructure with 99.9% uptime: Self-managed bare metal Ubuntu Server with redundant power supply (UPS battery backup on server and networking equipment), custom Nginx reverse proxy, PM2 process management, UFW firewall configuration, and zero-downtime deployment pipeline - maintained availability through multiple power outages
 Performance engineering: Optimized front-end to smoothly render 500+ concurrent real-time countdown timers and dynamic statistical cards with complex conditional queries against live data
@@ -94,7 +94,7 @@ Revenue infrastructure: Implemented Stripe subscription billing with automated p
 Product design: Created entire UX in Figma, translating designs directly to production-ready components with customizable user preferences and savable filter configurations
 
 Statistical Table Tennis - Helper Application (2025)
-Tech Stack: Node.js, Express, pm2, Ubuntu Server, Nginx 
+Tech Stack: Node.js, Express, pm2, Ubuntu Server, Nginx
 Cross functional application running in parallel to primary application
 API endpoint communicate locally to trigger server side functions via commands from primary application admin console. This serves to isolate functionality from the front-end and improve user experience for lengthy functions updating the database statistics on schedules.
 
@@ -103,22 +103,22 @@ Tech Stack: Svelte 5, SvelteKit, Capacitor, Stripe API, Firebase (Auth, Firestor
 
 Live Software:
 	Website: https://wrenchtc.com
-Customer Dashboard: totalcare.c2certification.com 
+Customer Dashboard: totalcare.c2certification.com
 API Documentation: https://documenter.getpostman.com/view/33065245/2sB2cSfNMQ
 Customer Facing iOS application: https://apps.apple.com/us/app/totalcare-plus/id6740841155
 
 Full-stack ownership: Designed and implemented every layer - Firebase Authentication, Firebase Firestore, and Firebase Storage database architecture, RESTful API endpoints, front-end UI/UX with Svelte 5 and Svelte kit, and payment processing (Stripe API)
-Revenue infrastructure: Implemented embedded Stripe checkout invoicing based on the parameters of a customers transaction. Price, duration, addons, etc. Vehicle owners are prompted to create a connect account which receives transfers for their funds after completion of rental and dispursment calcuations 
+Revenue infrastructure: Implemented embedded Stripe checkout invoicing based on the parameters of a customers transaction. Price, duration, addons, etc. Vehicle owners are prompted to create a connect account which receives transfers for their funds after completion of rental and dispursment calcuations
 Product design: Created entire UX in Figma, translating designs directly to production-ready components
-Project Manager: Responsible for assigning work, and reviewing pull requests for changes to the production codebase and live applications 
-Coordinated Requirement Gathering & Planning with third-party developers to implement referral API to onboard customers into the system and allow for full handoff into standard onboarding while customer billing remains on their end. 
-Exteral API endpoints with unique API keys and permissions per partner, utilizing SvelteKit 
+Project Manager: Responsible for assigning work, and reviewing pull requests for changes to the production codebase and live applications
+Coordinated Requirement Gathering & Planning with third-party developers to implement referral API to onboard customers into the system and allow for full handoff into standard onboarding while customer billing remains on their end.
+Exteral API endpoints with unique API keys and permissions per partner, utilizing SvelteKit
 Isolated Quality Assurance environment implemented a completely isolated testing infrastructure that builds along side production to allow for easy testing for third party developers while implementing api
 JWT Based Token management for backward communication on the completion of various steps by customer
 
 Real-Time GPS Platform crossingforcysticfibrosis.com – Scalable Event Infrastructure (2022-Present)
 Tech Stack: Svelte 5, SvelteKit, Firebase (Firestore, Realtime DB), JavaScript/TypeScript, Vercel, OpenStreetMap API
-Live Software: https://crossing-for-cystic-svelte.vercel.app/tools | 
+Live Software: https://crossing-for-cystic-svelte.vercel.app/tools |
 Livestream Footage | 2025: youtube.com/live/CRI3FIs02Ho (timestamp 4:09:14)
 
 Architected real-time tracking platform utilizing gps location and meta data along with associating indiidual devices to information about the individual devices (i.e., team name, last update time, dynamically calculated race position, etc). scaling with event growth from $600k to $4.4M in fundraising
@@ -127,13 +127,13 @@ System design: XML satellite feed processing, real-time database updates, dynami
 Rebuilt complete system one week before production event when GPS provider changed API requirements
 Maintained production system for 4 consecutive years with ongoing technical ownership
 
-Macro Exotics — Exotic Vehicle Rental Platform (2025) 
+Macro Exotics — Exotic Vehicle Rental Platform (2025)
 Live: https://www.macroexotics.com/ | https://my.macroexotics.com
 Tech Stack: Svelte 5, SvelteKit, Stripe API, Firebase (Auth, Firestore, Storage), TypeScript, REST APIs, Vercel, Git, Github
 Full-stack ownership: Designed and implemented every layer - Firebase Authentication, Firebase Firestore, and Firebase Storage database architecture, RESTful API endpoints, front-end UI/UX with Svelte 5 and Svelte kit, and payment processing (Stripe API)
-Revenue infrastructure: Implemented embedded Stripe checkout invoicing based on the parameters of a customers transaction. Price, duration, addons, etc. Vehicle owners are prompted to create a connect account which receives transfers for their funds after completion of rental and dispursment calcuations 
+Revenue infrastructure: Implemented embedded Stripe checkout invoicing based on the parameters of a customers transaction. Price, duration, addons, etc. Vehicle owners are prompted to create a connect account which receives transfers for their funds after completion of rental and dispursment calcuations
 Product design: Created entire UX in Figma, translating designs directly to production-ready components
-Project Manager: Responsible for assigning work, and reviewing pull requests for changes to the production codebase and live applications 
+Project Manager: Responsible for assigning work, and reviewing pull requests for changes to the production codebase and live applications
 
 
 
