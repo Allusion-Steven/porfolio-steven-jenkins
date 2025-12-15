@@ -79,7 +79,7 @@
         ],
         "overview": "Architected and built complete production SaaS application from concept to paying customers in 3 months while managing multiple concurrent client engagements.",
         "highlights": [
-          "Sole developer: Full-stack ownership of authentication (Lucia Auth), database (Drizzle ORM + SQLite), RESTful APIs, UI/UX, and payment processing (Stripe)",
+          "Lead developer: Full-stack ownership of authentication (Lucia Auth), database (Drizzle ORM + SQLite), RESTful APIs, UI/UX, and payment processing (Stripe)",
           "Production infrastructure with 99.9% uptime on self-managed bare metal Ubuntu Server with redundant power, Nginx reverse proxy, PM2 process management",
           "Performance engineering: Optimized front-end to smoothly render 500+ concurrent real-time countdown timers with complex conditional queries",
           "Enterprise security: Device fingerprinting, multi-factor validation, session revocation, IP blocking, audit logging",
